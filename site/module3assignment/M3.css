@@ -30,6 +30,7 @@ background-color: #dfede8;
 padding: 20px;
 border-radius: 5px;
 border-color: #6ffcca;
+overflow: hidden;
 }
 h3{
 	font-weight: 1.5em;
