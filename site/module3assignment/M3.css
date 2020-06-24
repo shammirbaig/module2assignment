@@ -1,0 +1,45 @@
+.navbar{
+	background-color: #c1f7f0;
+	overflow:visible;
+}
+.navbar-brand{
+	vertical-align: top;
+	text-decoration: none;
+
+}
+h1{
+	line-height: 0;
+}
+#collapsable-nav #nav-list li a:hover{
+	display: block;
+background: #88babf;
+}
+.navbar-brand a:hover{
+text-decoration:none;
+margin-bottom: 30px;
+}
+.main-content{
+	margin:20px 20px 20px 30px;
+content: justify;
+color:solid black;
+size:0.8em;
+line-height: 1.4em;
+letter-spacing: 0;
+height: 1000px;
+background-color: #dfede8;
+padding: 20px;
+border-radius: 5px;
+border-color: #6ffcca;
+}
+h3{
+	font-weight: 1.5em;
+	font-size: 2.5em;
+	margin-bottom: 50px;
+}
+.main-content #p1{
+	text-align: center;
+	size: 3em;
+	margin: 10px;
+	font-weight: 800;
+	font-size: 2em;
+}
